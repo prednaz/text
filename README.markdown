@@ -1,4 +1,4 @@
-# `text`: Fast, packed Unicode strings, using stream fusion
+# `text`: Fast, packed Unicode strings, using stream fusio
 
 This package provides the Data.Text library, a library for the space-
 and time-efficient manipulation of Unicode text in Haskell.
